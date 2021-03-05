@@ -1,0 +1,20 @@
+.table {
+   width: 50%;
+}
+
+.body td{
+    text-align: center;
+    padding: 10px ;
+}
+
+.input input,h2,
+.buttonAdd {
+    display: block;
+    margin: 5px 0 0 20px;
+
+}
+
+.tableElements td  {
+    border: black 1px solid;
+}
+
